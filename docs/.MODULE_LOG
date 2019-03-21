@@ -1,0 +1,17 @@
+>>
+Script is used     : e3TemplateGenerator.bash
+Script Path        : /home/iocuser/ics-repo/e3-tools/e3TemplateGenerator
+User               : iocuser
+Log Time           : 2019Mar21-1150-33EDT
+e3 repo Hash       : 98d4224
+
+>>
+>> Your sources are located in e3-EMUetherCAT.
+>> 
+EPICS_MODULE_NAME  : EMUetherCAT
+E3_MODULE_SRC_PATH : EMUetherCAT
+E3_TARGET_URL      : https://github.com/icshwi
+>> 
+e3 module name     : e3-EMUetherCAT
+e3 target url full : https://github.com/icshwi/e3-EMUetherCAT.git
+>> 
